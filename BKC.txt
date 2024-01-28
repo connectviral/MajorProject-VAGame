@@ -1,0 +1,25 @@
+game dev. in opengl {HTML 5} #Dev Montek
+Documentation
+strategies =>  API Functionalities
+
+generate ideas for major project
+
+fitness trackes - DAnny- weights running
+
+
+
+Docs and comms = 35%
+project execution = 45%
+presentation = 20%
+
+
+1. idea
+2. project charterS
+3. scope
+4. Work breakdowns
+5. project plan.
+6. coding and execution
+7. testing
+8. prototype
+9. fixing and testing
+10. presentation and code delivery.
